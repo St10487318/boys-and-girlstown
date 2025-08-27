@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title><strong>Get In Touch So We May Get To Know YOU!!</strong></title>
+    </head>
+    <body>
+        <header>
+            <img src="_images/organisation logo 2.png" alt="organisation logo 2">_
+            <nav>
+                <ul>
+                    <li><a href="homepage.html">Home</a></li>
+                    <li><a href="about page.html">About</a></li>
+                    <li><a href="get to know the kids.html">survey the kids</a></li>
+                    <li><a href="donate to us">donate to us</a></li>
+                    <li>contact Us</li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <h1>Reach out To Us!!</h1>
+            <p><strong>Physical Address:</strong>11 kanfer street Greenhills Randfontein </p>
+            <p><strong>Email:</strong>Boysandgirlstown.email.za</p>
+            <p><strong>Contact Number: </strong>0637946570/0830735652</p>
+
+            <h1><strong> Operational hours</strong></h1>
+            <p><strong>Week Days:</strong>7am - 4pm</p>
+            <p><strong>Weekend:</strong>7am-1pm</p>
+            <p><strong>Public Holidays:</strong>CLOSED</p>
+        </main>
+
+        <footer>
+
+            
+        </footer>
+
+
+
+    </body>
+        
+
+
+</html>

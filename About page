@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Boys And Girls Town About Us Page</title>
+    </head>
+    <body>
+        <header>
+        <img src="_images/organisation logo 2.png" alt="organisation logo 2">_
+        <nav>
+        </nav>
+        <h1><i></i>Boys And Girls Town Hand In Hand Towards A Brighter Future<i></i> </h1>
+        </header>
+        <main>
+            <h1>About Girls And Boys Town</h1>
+            <p>You have just entered the amazing world of <strong>Girls And Boys </strong> where we work <strong>Hand in Hand Towards A Brighter Future</strong></p>
+
+            <h1><strong>Our Mission and Vision Is to</strong></h1>
+            <P>provide a warm and stable upbringing to the unfortunate children , we also strive to improve their quality of life an insure that they become better individuals within the society by providing them with access to a proper education system , warm and homely facilities so they can lay their heads , as well as a broad opportunity in learning social skills and co existence with other individual. We aim to nurture, grow and release into the world to make a difference.</P>
+        </main>
+        <footer>
+            <nav>
+                <ul>
+                    <li><a href="homepage.html">Home</a></li>
+                    <li>About</li>
+                    <li><a href="get to know our kids">survey the kids</a></li>
+                    <li><a href="donate to us">donation page</a></li>
+                    <li><a href="contact_us.html">Contact Us</a></li>
+                </ul>
+
+
+            </nav>
+
+
+        </footer>
+
+
+    </body>
+
+
+
+
+
+
+
+</html>
